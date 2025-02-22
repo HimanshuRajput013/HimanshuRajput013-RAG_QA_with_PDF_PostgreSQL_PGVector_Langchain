@@ -1,0 +1,8 @@
+langchain_community
+PyPDF
+langchain_huggingface
+langchain_groq
+streamlit
+langchain_postgres
+psycopg2
+sentence-transformers
