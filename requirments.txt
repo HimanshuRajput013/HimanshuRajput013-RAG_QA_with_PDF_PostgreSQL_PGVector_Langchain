@@ -4,5 +4,5 @@ langchain_huggingface
 langchain_groq
 streamlit
 langchain_postgres
-psycopg2
+psycopg3
 sentence-transformers
