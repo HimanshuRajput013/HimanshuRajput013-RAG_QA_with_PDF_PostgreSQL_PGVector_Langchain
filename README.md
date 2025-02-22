@@ -15,7 +15,7 @@ docker run --name pgvector-container \
     -d pgvector/pgvector:pg16
 ```
 
-## ✅ Customizations:
+### ✅ Customizations:
 
 Change POSTGRES_USER and POSTGRES_PASSWORD as needed.
 
