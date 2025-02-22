@@ -83,4 +83,16 @@ Ensure you have Python installed. Install all required packages using:
 
 ![Screenshot 2025-02-22 222551](https://github.com/user-attachments/assets/dd3c8089-f167-433e-9842-f976272f701a)
 
+## 🛠 Project Structure
+```
+📂 your-repo/
+├── 📜 .gitignore               # Git ignore file  
+├── 📜 README.md                # Project documentation  
+├── 📝 app.py                   # Main application script  
+├── 📄 extracted_output.txt      # Processed text from PDFs  
+├── 📦 requirments.txt          # Required dependencies  
+├── 📄 temppdf.pdf              # Temporary PDF storage  
+└── 📓 trial.ipynb              # Jupyter notebook (for testing)  
+```
+
 
