@@ -76,3 +76,7 @@ cd your-repo
 ```
 ### 2️⃣ Install Dependencies
 Ensure you have Python installed. Install all required packages using:
+```pip install -r requirments.txt```
+
+### 3️⃣ Run the Application
+```streamlit run app.py```
