@@ -17,9 +17,12 @@ docker run --name pgvector-container \
 
 ### ✅ Customizations:
 
--Change POSTGRES_USER and POSTGRES_PASSWORD as needed.
+-Change `POSTGRES_USER` and `POSTGRES_PASSWORD` as needed.
 
--Modify POSTGRES_DB to match your project.
+-Modify `POSTGRES_DB` to match your project.
 
--Ensure port 6024 is available, or change it (-p <your_port>:5432).
+-Ensure port 6024 is available, or change it `(-p <your_port>:5432)`.
+
+# 🖥️ Set Up pgAdmin 4 (Optional but Recommended)
+If pgAdmin 4 is not installed on your system, you can easily run it in Docker:
 
