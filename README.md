@@ -81,5 +81,6 @@ Ensure you have Python installed. Install all required packages using:
 ### 3️⃣ Run the Application
 ```streamlit run app.py```
 
-![Screenshot 2025-02-22 222551](https://github.com/user-attachments/assets/d5bd5c93-033a-4a45-b74d-e18ef9cd5424)
+![Screenshot 2025-02-22 222551](https://github.com/user-attachments/assets/dd3c8089-f167-433e-9842-f976272f701a)
+
 
