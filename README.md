@@ -26,3 +26,16 @@ docker run --name pgvector-container \
 # 🖥️ Set Up pgAdmin 4 (Optional but Recommended)
 If pgAdmin 4 is not installed on your system, you can easily run it in Docker:
 
+### 1️⃣ Pull the pgAdmin 4 Docker Image
+```sh
+docker pull dpage/pgadmin4
+```
+### 2️⃣ Run the pgAdmin Container
+```sh
+docker run --name pgadmin-container \
+    -p 5050:80 \
+    -e PGADMIN_DEFAULT_EMAIL=user@domain.com \
+    -e PGADMIN_DEFAULT_PASSWORD=password \
+    -d dpage/pgadmin4
+
+```
