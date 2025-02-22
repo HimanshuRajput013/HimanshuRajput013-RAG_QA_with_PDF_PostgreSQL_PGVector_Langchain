@@ -6,13 +6,13 @@ This guide helps you **quickly set up PostgreSQL with the pgVector extension** a
 
 You can start a **PostgreSQL container** with **pgVector** using the following command:  
 
-```bash
+```sh
 docker run --name pgvector-container \
     -e POSTGRES_USER=langchain \
     -e POSTGRES_PASSWORD=langchain \
     -e POSTGRES_DB=langchain \
     -p 6024:5432 \
-    -d pgvector/pgvector:pg16
+    -d pgvector/pgvector:pg16```
 
 ## ✅ Customizations:
 
