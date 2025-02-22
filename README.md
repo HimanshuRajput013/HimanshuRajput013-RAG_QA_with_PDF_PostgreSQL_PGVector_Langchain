@@ -22,6 +22,8 @@ docker run --name pgvector-container \
 -Modify `POSTGRES_DB` to match your project.
 
 -Ensure port 6024 is available, or change it `(-p <your_port>:5432)`.
+![Screenshot 2025-02-22 231822](https://github.com/user-attachments/assets/2141b902-5907-4c27-bd6e-14d64f5e4156)
+
 
 # 🖥️ Set Up pgAdmin 4 (Optional but Recommended)
 If pgAdmin 4 is not installed on your system, you can easily run it in Docker:
