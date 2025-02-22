@@ -12,7 +12,7 @@ docker run --name pgvector-container \
     -e POSTGRES_PASSWORD=langchain \
     -e POSTGRES_DB=langchain \
     -p 6024:5432 \
-    -d pgvector/pgvector:pg16```
+    -d pgvector/pgvector:pg16```bash
 
 ##✅ Customizations:
 
