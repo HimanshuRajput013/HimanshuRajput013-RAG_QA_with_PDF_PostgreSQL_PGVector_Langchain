@@ -1,4 +1,15 @@
-# 🚀 PostgreSQL with pgVector & pgAdmin 4 in Docker  
+# 🚀 Conversational RAG with PDF Uploads & Chat History
+
+Welcome to **Conversational RAG**, a powerful Streamlit-based application that allows you to upload PDFs and chat with their content using AI-powered retrieval mechanisms. 📄💬
+
+## 📌 Features:
+✅ Upload and process PDFs effortlessly  
+✅ Retrieve context-aware responses from uploaded documents  
+✅ Seamless chat history management  
+✅ Built-in PostgreSQL vector storage with `pgvector`  
+
+---
+## 🚀 PostgreSQL with pgVector & pgAdmin 4 in Docker  
 
 This guide helps you **quickly set up PostgreSQL with the pgVector extension** and **pgAdmin 4** using Docker.  
 
