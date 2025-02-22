@@ -45,3 +45,10 @@ docker run --name pgadmin-container \
 -Change `PGADMIN_DEFAULT_PASSWORD` for security.
 
 -Ensure port 5050 is free, or modify it `(-p <your_port>:80)`.
+
+### 📌 Access pgAdmin 4
+
+After running the container, open pgAdmin in your browser:
+'🔗 http://localhost:5050'
+
+Login with the 'email & password' set in the command.
