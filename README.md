@@ -7,8 +7,9 @@ Welcome to **Conversational RAG**, a powerful Streamlit-based application that a
 ✅ Retrieve context-aware responses from uploaded documents  
 ✅ Seamless chat history management  
 ✅ Built-in PostgreSQL vector storage with `pgvector`  
+![Screenshot 2025-02-22 220103](https://github.com/user-attachments/assets/12be97af-5618-4699-b6e1-ba7272427d99)
 
----
+
 ## 🚀 PostgreSQL with pgVector & pgAdmin 4 in Docker  
 
 This guide helps you **quickly set up PostgreSQL with the pgVector extension** and **pgAdmin 4** using Docker.  
