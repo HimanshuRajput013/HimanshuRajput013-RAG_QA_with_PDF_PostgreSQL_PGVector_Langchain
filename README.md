@@ -66,3 +66,13 @@ After running the container, open pgAdmin in your browser:
 
 Login with the 'email & password' set in the command.
 ![Screenshot 2025-02-22 231822](https://github.com/user-attachments/assets/2141b902-5907-4c27-bd6e-14d64f5e4156)
+
+## ⚡ Quick Start
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+### 2️⃣ Install Dependencies
+Ensure you have Python installed. Install all required packages using:
