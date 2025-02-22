@@ -37,5 +37,11 @@ docker run --name pgadmin-container \
     -e PGADMIN_DEFAULT_EMAIL=user@domain.com \
     -e PGADMIN_DEFAULT_PASSWORD=password \
     -d dpage/pgadmin4
-
 ```
+### ✅ Customizations:
+
+-Replace `PGADMIN_DEFAULT_EMAIL` with your email.
+
+-Change `PGADMIN_DEFAULT_PASSWORD` for security.
+
+-Ensure port 5050 is free, or modify it `(-p <your_port>:80)`.
