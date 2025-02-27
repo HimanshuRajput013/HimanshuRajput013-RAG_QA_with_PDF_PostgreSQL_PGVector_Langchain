@@ -62,7 +62,7 @@ docker run --name pgadmin-container \
 ### 📌 Access pgAdmin 4
 
 After running the container, open pgAdmin in your browser:
-'🔗 http://localhost:5050](http://localhost:5050/login?next=/browser/'
+'🔗 (http://localhost:5050/login?next=/browser/'
 
 Login with the 'email & password' set in the command.
 ![Screenshot 2025-02-22 231822](https://github.com/user-attachments/assets/2141b902-5907-4c27-bd6e-14d64f5e4156)
